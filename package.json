@@ -2,7 +2,7 @@
   "name": "the-competitive-schemer",
   "displayName": "The Competitive Schemer",
   "description": "A VsCode plugin to facilitate solving ACM-ICPC problems using Chez Scheme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "abhi18av-vscode",
   "repository": "https://github.com/abhi18av/The-Competitive-Schemer-VsCode",
   "engines": {
